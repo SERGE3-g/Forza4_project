@@ -11,7 +11,7 @@ class cliente {
         string email;
         string telefono;
 };
-
+// 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
 class ordine {
     public:
         int id_ordine;
